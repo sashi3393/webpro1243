@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <html>
+<head>
 <style>
-div {padding:10px;}
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 </style>
+</head>
 <body>
 
-<h1>Colors can be set using color names</h1>
-
-<div style="background-color:red">
-  <h1 style="color:white">Heading</h1>
-</div>
-
-<div style="background-color:yellow">
-  <h1 style="color:blue">Heading</h1>
-</div>
-
-<div style="background-color:blue">
-  <h1 style="color:yellow">Heading</h1>
-</div>
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
