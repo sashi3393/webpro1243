@@ -1,23 +1,16 @@
 <!DOCTYPE html>
 <html>
-<style>
-div {padding:10px;}
-</style>
+<head>
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<!--Get your code at fontawesome.com-->
+</head>
 <body>
 
-<h1>Colors can be set using color names</h1>
-
-<div style="background-color:red">
-  <h1 style="color:white">Heading</h1>
-</div>
-
-<div style="background-color:yellow">
-  <h1 style="color:blue">Heading</h1>
-</div>
-
-<div style="background-color:blue">
-  <h1 style="color:yellow">Heading</h1>
-</div>
+<i class="fas fa-band-aid"></i>
+<i class="fas fa-cat"></i>
+<i class="fas fa-dragon"></i>
+<i class="far fa-clock"></i>
+<i class="fas fa-clock"></i>
 
 </body>
 </html>
